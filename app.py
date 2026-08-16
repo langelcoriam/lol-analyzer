@@ -93,7 +93,7 @@ def poner_fondo(imagen):
         unsafe_allow_html=True
     )
 
-poner_fondo("fondo.jpg")
+poner_fondo("Fondo.jpg")
 
 # AQUÍ CONTINÚA TODO TU CÓDIGO COMO YA LO TENÍAS
 
